@@ -158,7 +158,7 @@
     "@types/babel__code-frame": "7.0.2",
     "@types/babel__core": "7.1.12",
     "@types/babel__generator": "7.6.2",
-    "@types/babel__template": "7.4.0",
+    "@types/babel__template": "7.4.4",
     "@types/babel__traverse": "7.11.0",
     "@types/bytes": "3.1.1",
     "@types/ci-info": "2.0.0",
