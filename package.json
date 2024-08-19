@@ -85,7 +85,7 @@
     "@opentelemetry/api": "1.4.1",
     "@picocss/pico": "1.5.10",
     "@replayio/jest": "27.2.35",
-    "@replayio/playwright": "1.1.8",
+    "@replayio/playwright": "1.1.16",
     "@replayio/replay": "0.20.1",
     "@svgr/webpack": "5.5.0",
     "@swc/cli": "0.1.55",
