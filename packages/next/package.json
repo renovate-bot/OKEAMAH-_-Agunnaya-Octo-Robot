@@ -138,7 +138,7 @@
     "@babel/types": "7.22.5",
     "@capsizecss/metrics": "1.1.0",
     "@edge-runtime/cookies": "4.0.2",
-    "@edge-runtime/ponyfill": "2.4.1",
+    "@edge-runtime/ponyfill": "2.4.2",
     "@edge-runtime/primitives": "4.0.2",
     "@hapi/accept": "5.0.2",
     "@jest/transform": "29.5.0",
