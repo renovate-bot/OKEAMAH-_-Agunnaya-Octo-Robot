@@ -174,7 +174,7 @@
     "@types/graceful-fs": "4.1.9",
     "@types/jsonwebtoken": "9.0.0",
     "@types/lodash": "4.14.198",
-    "@types/lodash.curry": "4.1.6",
+    "@types/lodash.curry": "4.1.9",
     "@types/lru-cache": "5.1.0",
     "@types/path-to-regexp": "1.7.0",
     "@types/picomatch": "2.3.3",
